@@ -1,5 +1,5 @@
 /* 플레이 링크: 크랙 URL로 바꿔 주세요 */
-const PLAY_URL = "";
+const PLAY_URL = "https://share.crack.wrtn.ai/m8xfj2x";
 
 const playBtn=document.getElementById('playBtn');
 if(PLAY_URL){playBtn.href=PLAY_URL}else{
