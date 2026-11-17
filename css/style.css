@@ -303,7 +303,6 @@ mark{background:linear-gradient(transparent 62%,var(--ivory-2) 62%);color:inheri
 .quote{margin-top:1rem;padding:.8rem 1rem;background:var(--ivory);font-family:var(--serif);font-size:.92rem;border-left:2px solid var(--red)}
 
 /* 관계 */
-.rel svg{width:100%;height:auto;margin-top:1rem}
 
 /* 페르소나 시트 */
 .sheet{border:1px solid var(--ink);margin-top:1.4rem;position:relative}
